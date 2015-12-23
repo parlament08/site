@@ -4,12 +4,8 @@ div {
     height: 500px;
     margin: 0 auto;
 }
-h1 {
-    color: red;
-}
-h2 {
+p {
     color: green;
-}
-h3 {
-    color:blue;
+    text-align: center;
+    font-size: 20px;
 }
